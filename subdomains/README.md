@@ -1,5 +1,5 @@
 
-seed.txt 包含了如下内容:
+subdomains.txt 包含了如下内容:
 
 - SDLC: test, dev, prod...
 - 中间件/框架: kafka, spring, k8s...
